@@ -7,4 +7,3 @@
 ### **What I used:**
 - Flutter
 - Dart
-- Firebase
